@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maacoun&label=Profile%20views&color=0e75b6&style=flat" alt="maacoun" /> </p>
 
-- 🔭 I’m currently working on **FPS game in Unity**
+- 🔭 Studying at TUL
+- 🐱‍💻 Working on 2 full stack demo apps
+- 👾 Preparing new game ideas
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
